@@ -151,4 +151,21 @@ At **test.ai**, we are always innovating. Found a bug? Got a cool idea for a new
 
 ---
 
+## Contributors ✨
+
+Thanks to these wonderful people who have contributed to this project:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sincerelyyyash"><img src="https://avatars.githubusercontent.com/u/62953198?v=4" width="100px;" alt=""/><br /><sub><b>sincerelyyyash</b></sub></a></td>
+    <td align="center"><a href="https://github.com/YadlaMani"><img src="https://avatars.githubusercontent.com/u/133841094?v=4" width="100px;" alt=""/><br /><sub><b>YadlaMani</b></sub></a></td>
+    <td align="center"><a href="https://github.com/pvishalkeerthan"><img src="https://avatars.githubusercontent.com/u/151875862?v=4" width="100px;" alt=""/><br /><sub><b>pvishalkeerthan</b></sub></a></td>
+    <td align="center"><a href="https://github.com/nitinawari"><img src="https://avatars.githubusercontent.com/u/99824048?v=4" width="100px;" alt=""/><br /><sub><b>nitinawari</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Ananya54321"><img src="https://avatars.githubusercontent.com/u/116152722?v=4" width="100px;" alt=""/><br /><sub><b>Ananya54321</b></sub></a></td>
+    <td align="center"><a href="https://github.com/shourya1873"><img src="https://avatars.githubusercontent.com/u/182977515?v=4" width="100px;" alt=""/><br /><sub><b>shourya1873</b></sub></a></td>
+    <td align="center"><a href="https://github.com/zzzzshawn"><img src="https://avatars.githubusercontent.com/u/107312993?v=4" width="100px;" alt=""/><br /><sub><b>zzzzshawn</b></sub></a></td>
+  </tr>
+</table>
+
+
 Thank you for being a part of **test.ai**—where learning meets fun, progress is tracked, and growth never stops. Let's level up your knowledge today!
