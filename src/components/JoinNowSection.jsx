@@ -22,10 +22,10 @@ export function JoinNowSection() {
           <p className="mt-4 font-bold text-xl text-center text-neutral-700 dark:text-white font-sans">
             Experience the future of learning with our AI-driven quiz platform.
           </p>
-          <div className="flex justify-center items-center mt-6">
+          <div className="flex justify-center items-center mt-8">
             {session ? (
               <Link href="/dashboard">
-              <Button variant="default" className="w-52 h-14 text-xl rounded-full flex items-center justify-center">
+                <Button variant="default" className="w-52 h-14 text-xl rounded-full flex items-center justify-center">
                   Go to Dashboard
                 </Button>
               </Link>
@@ -33,9 +33,15 @@ export function JoinNowSection() {
               <Link href="/signup">
                 <Button
                   variant="secondary"
-                  className="w-52 h-14 text-xl rounded-full flex items-center justify-center bg-black/80 dark:bg-white dark:text-black text-white transition-all duration-300 hover:bg-black"
+                  className="group w-56 h-16 text-xl  rounded-full flex items-center justify-center gap-3 
+                    bg-gradient-to-r from-black to-neutral-800 dark:from-white dark:to-neutral-200
+                    text-white dark:text-black 
+                    shadow-lg hover:shadow-xl
+                    transform hover:scale-105
+                    transition-all duration-300 ease-out
+                    hover:gap-5"
                 >
-                  <LifeBuoy className="group-hover:rotate-[360deg] transition-all duration-700 ease-in-out" />
+                  <LifeBuoy className="w-8 h-8 group-hover:rotate-[360deg] transition-all duration-700 ease-in-out" />
                   Sign Up Now!
                 </Button>
               </Link>
